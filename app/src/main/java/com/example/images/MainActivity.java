@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                     else{
                         img.setImageResource(R.drawable.pec1);
-                        pec=1;
+                        pec=3;
                     }
                 }
             }
